@@ -112,17 +112,6 @@ const Homepage = () => {
       imageUrl:
         "https://images.bewakoof.com/t1080/men-s-blue-dope-bear-graphic-printed-oversized-t-shirt-547532-1715257612-1.jpg",
     },
-    {
-      id: 10,
-      name: "Mens white check Shirt regular fit",
-      designNumber: "DN098234839",
-      inStock: 100,
-      newPrice: 799.67,
-      oldPrice: 1250.67,
-      size: "XL",
-      imageUrl:
-        "https://images.bewakoof.com/t1080/men-s-blue-dope-bear-graphic-printed-oversized-t-shirt-547532-1715257612-1.jpg",
-    },
   ];
 
   return (
